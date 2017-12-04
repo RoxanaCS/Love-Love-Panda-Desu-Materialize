@@ -1,3 +1,21 @@
+body{
+  margin: 0 auto;
+}
+header{
+  background-color: #FFAB91;
+  text-align: right;
+  color: #FFF;
+  height: 8em;
+}
+.title{
+  margin: 0.5em 1em;
+  font-size: 3em;
+  /*outline: 1px solid red;*/
+}
+.subtitle{
+  margin: -2em 3em;
+  /*outline: 1px solid red;*/
+}
 .backgroundPanda{
   height: 37em;
   background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../img/uno.jpg) no-repeat;
