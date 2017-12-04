@@ -45,3 +45,6 @@ header{
   background-position: center;
   height: 37em;
 }
+.no-mg{
+  margin-bottom: 0;
+}
